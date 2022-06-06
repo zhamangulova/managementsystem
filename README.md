@@ -2,5 +2,5 @@
 Frontend - thymeleaf
 Backend - spring beat
 Database - MySQL
-![static](screen1.gpeg)
-![static](Screen2.gpeg)
+![static](Screen1.jpeg)
+![static](screen2.jpeg)
